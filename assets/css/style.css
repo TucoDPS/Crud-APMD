@@ -1,0 +1,33 @@
+table tr td {
+    vertical-align: middle;
+}
+
+td button{
+    margin: 5px;
+}
+
+td button i{
+    font-size:20px ;
+}
+
+.modal-header{
+    background: #2E4057;
+    color: #F6D8AE ;
+}
+
+.modal-footer .submit{
+    font-size: 18px;
+    background: #2E4057;
+    color: #F6D8AE ;
+}
+.modal-footer .submit:hover{
+    font-size: 18px;
+    background: #083D77;
+    color: #F6D8AE ;
+}
+
+#infoRoupaForm form .inputField input{
+    font-size: 18px;
+    background: #2E4057;
+    color: #F6D8AE ;
+}
