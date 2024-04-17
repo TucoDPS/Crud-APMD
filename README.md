@@ -1,3 +1,3 @@
 # Crud-APMD
 
-Projeto CRUD sendo desenvolvido na Faculdade
+Projeto CRUD desenvolvido para faculdade
